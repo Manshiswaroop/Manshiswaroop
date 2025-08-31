@@ -1,44 +1,50 @@
-<h1 align="center">नमस्ते! 🙏 , I'm Manshi<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
-<h3 align="center">Welcome to my profile!</h3>
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
- -->
+<h1 align="center">🙏 नमस्ते, I'm Manshi 👋</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Computer Science Student</h3>
 
-### I'm a Otaku <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> and Computer Science Student Passionate About Data Science & AI🤖✨.
+---
 
-- 📚 I’m currently diving deep into Data Science, Machine Learning, and AI, exploring how data can drive meaningful insights. 
+### 👩‍💻 About Me
+- 🎓 Pursuing **Computer Science**, passionate about **Data Science, Machine Learning, and AI**.  
+- 📊 Skilled in **Python, SQL, Data Visualization, and Statistical Analysis**.  
+- 🛠️ Hands-on with **Flask/Django** for building data-driven applications.  
+- 🌱 Currently exploring **Advanced SQL, Power BI, Tableau, and ML algorithms**.  
+- 🤝 Actively contributing to **open-source** and **data-driven projects**.  
 
-- 👯  Actively participating in open-source and data-driven projects, contributing to data analysis and visualization.
+---
 
-- 🌱 I’m currently learning Advanced SQL, Power BI, Tableau, and Machine Learning algorithms to enhance my analytical skills.
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, Java  
+- **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Flask, Django  
+- **Visualization Tools:** Matplotlib, Seaborn, Power BI, Tableau  
+- **Databases:** MySQL, PostgreSQL  
+- **Other Tools:** Git, GitHub, Jupyter Notebook  
 
-- 🤓  Experienced in Python, SQL, Data Visualization, and Statistical Analysis, with a strong foundation in Flask/Django for data-driven applications.
+---
 
-![Manshiswaroop github stats](https://github-readme-stats.vercel.app/api?username=Manshiswaroop&show_icons=true)
-
-![Manshiswaroop's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manshiswaroop)
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<!-- 
-![Manshi15 github stats](https://github-readme-stats.vercel.app/api?username=Manshiswaroop&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<p align="center"> 
-
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Manshi15/count.svg" />  🔭
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manshiswaroop&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manshiswaroop&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
--->
+---
 
-[![](https://img.shields.io/badge/LinkedIn-manshiswaroop-blue)](https://www.linkedin.com/in/manshiswaroop/)
-[![](https://img.shields.io/badge/Gmail-swaroopm1520-red)](mailto:swaroopm1520@gmail.com)
-[![](https://img.shields.io/badge/Twitter-ManshiSwar15-brightgreen)](https://twitter.com/ManshiSwar15)
-[![](https://img.shields.io/badge/Instagram-_manshii15_-ff69b4)](https://www.instagram.com/_manshii15_/)
+### 🌟 Featured Projects
+- 📌 **Expense Tracker (Python):** A web app for managing and analyzing expenses with visual insights.  
+- 📌 **Review Detector (Java/Android):** NLP-based fake review detection with ~85% accuracy.  
+- 📌 **Music Streaming Service (Flask):** Playlist management and metadata-based search.  
+- 📌 **Travel Booking Platform:** A Python-based booking prototype with authentication.  
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+---
 
-![visitor count](https://komarev.com/ghpvc/?username=Manshi15)
+### 🌍 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/manshiswaroop/"><img src="https://img.shields.io/badge/LinkedIn-manshiswaroop-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="mailto:swaroopm1520@gmail.com"><img src="https://img.shields.io/badge/Gmail-swaroopm1520-red?logo=gmail&style=for-the-badge"></a>
+  <a href="https://twitter.com/ManshiSwar15"><img src="https://img.shields.io/badge/Twitter-ManshiSwar15-blue?logo=twitter&style=for-the-badge"></a>
+  <a href="https://www.instagram.com/_manshii15_/"><img src="https://img.shields.io/badge/Instagram-_manshii15_-pink?logo=instagram&style=for-the-badge"></a>
+</p>
 
-⭐️ From [Manshi15](https://github.com/Manshiswaroop)
+---
 
+⭐️ From [Manshiswaroop](https://github.com/Manshiswaroop)
